@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaashish77
 - 👀 I’m interested in web-developing
 - 🌱 I’m currently learning ...Frontend and Backend
-- 💞️ I’m looking to collaborate on anyone willing to hire mw
+- 💞️ I’m looking to collaborate on anyone willing to hire me
 - 📫 How to reach me contact me with my mail.
 
 <!---
